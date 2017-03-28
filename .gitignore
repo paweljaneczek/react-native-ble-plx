@@ -47,7 +47,6 @@ android/keystores/debug.keystore
 # iOS
 ios/Pods
 ios/Podfile.lock
-Carthage
 
 # IDE
 .vscode/
